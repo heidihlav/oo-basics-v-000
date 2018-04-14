@@ -8,8 +8,6 @@ class Shoe
   end
 
   def cobble
-    shoe = Shoe.new
-    shoe.cobble
     puts "Your shoe is as good as new!"
   end
 
